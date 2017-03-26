@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "355760889530",
+    "firebase_url": "https://myfirebaseauthapp-81f20.firebaseio.com",
+    "project_id": "myfirebaseauthapp-81f20",
+    "storage_bucket": "myfirebaseauthapp-81f20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355760889530:android:e63bc9581f6d6afb",
+        "android_client_info": {
+          "package_name": "com.example.braj.firebaseauthdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355760889530-1kgmggm5r3bc3f610r5j3ovha3u6c93j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEicUcpqTCHvoNH_cjjGEgf7SQADpXQM0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
